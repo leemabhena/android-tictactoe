@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tictactoe</string>
+    <string name="elapsed_time">Elapsed time</string>
+    <string name="elapsed_time_str">Elapsed Time: </string>
+    <string name="clear">Clear</string>
+    <string name="cross_elapsed_time">CROSS Elapsed Time:</string>
+    <string name="circle_elapsed_time">CIRCLE Elapsed Time:</string>
+    <string name="next_player_name">Next player is 0</string>
+</resources>
